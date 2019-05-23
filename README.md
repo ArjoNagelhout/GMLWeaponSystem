@@ -1,6 +1,8 @@
 # GMLWeaponSystem
 An inventory based weapon system for GameMaker:Studio 2
 
+![Screenshot](https://github.com/ArjoNagelhout/GMLWeaponSystem/blob/master/screenshot.png?raw=true)
+
 [YouTube demo](https://www.youtube.com/watch?v=WXPy7eFRIes&t=5s)
 
 Features / controls:
